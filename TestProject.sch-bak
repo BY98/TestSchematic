@@ -19,4 +19,10 @@ U 6191E709
 F0 "preamp" 50
 F1 "preamp.sch" 50
 $EndSheet
+$Sheet
+S 6350 900  4150 2100
+U 619297D3
+F0 "Sheet619297D2" 50
+F1 "file619297D2.sch" 50
+$EndSheet
 $EndSCHEMATC
